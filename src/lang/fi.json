@@ -1,0 +1,20 @@
+{
+    "title": "Tervetuloa portfoliooni",
+    "name": "Hei! Minä olen",
+    "":"",
+    "description":"Hei! Olen Jonatan Haarala, ylioppilas tietoteknikko ja full-stack web developer Saltasta, Argentiinasta. Minulla on runsaasti kokemusta monimutkaisten ja dynaamisten verkkosivustojen suunnittelusta ja rakentamisesta sekä työskentelystä Agile tiimissä.",
+    "menu.home": "Inicio",
+    "menu.skills": "Habilidades",
+    "menu.proyects": "Proyectos",
+    "banner.redirect":"Scrolla allas...",
+
+    "experience-title":"What I have done so far",
+    "experience":"work experience",
+
+    "proyect-title":"Muun työstäni",
+    "proyects":"Projektit",
+    "proyects-desc":"Seuraavat projektit esittelevät taitojani ja kokemustani tosielämän esimerkein työstäni. Jokainen projekti on kuvattu lyhyesti linkkien kanssa koodivarastoihin ja siinä oleviin live-demoihin. Se kuvastaa kykyäni ratkaista monimutkaisia ​​ongelmia, työskennellä eri teknologioiden kanssa ja hallita projekteja tehokkaasti.",
+
+    "feddback":"Mitä jokut sanovat muusta",
+    "feddback-testimonials": "Suositukset."
+}

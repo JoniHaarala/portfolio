@@ -1,0 +1,22 @@
+{
+    "title": "Welcome to my Portfolio",
+    "name": "Hi! I'm",
+    "intro":"Introduction",
+    "overview":"Overview",
+    "description":"Hello! I'm Jonatan Haarala, I'm a skilled software engineer with experience in TypeScript and JavaScript and expertise in React and frameworks like Next.js, Gatsby, Node.js, and Three.js. I'm a quick learner and collaborate closely with clients to create efficient, scalable, and user-friendly solutions that solve real-world problems. I have also good experience and knowleges working with agile teams. Let's work together to bring your ideas to life!",
+    
+    "menu.home": "Home",
+    "menu.skills": "Skills",
+    "menu.proyects": "Proyects",
+    "banner.redirect": "Read more...",
+
+    "experience-title":"What I have done so far",
+    "experience":"work experience",
+
+    "proyect-title":"My Work",
+    "proyects":"Proyects",
+    "proyects-desc":"Following projects showcases my skills and experience through real-world examples of my work. Each project is briefly described with links to code repositories and live demos in it. It reflects my ability to solve complex problems, work with different technologies, and manage projects effectively.",
+
+    "feddback":"What others say",
+    "feddback-testimonials": "Testimonials."
+}

@@ -1,0 +1,22 @@
+{
+    "title": "Bienvenido a mi Portfolio",
+    "name": "Hola! Soy",
+    "intro": "Introducción",
+    "overview": "Descripción general",
+    "description": "¡Hola! Soy Jonatan Haarala, soy un ingeniero de software calificado con experiencia en TypeScript y JavaScript y experiencia en React y marcos como Next.js, Gatsby, Node.js y Three.js. Aprendo rápido y colaboro estrechamente con los clientes para crear soluciones eficientes, escalables y fáciles de usar que resuelvan problemas del mundo real. También tengo buena experiencia y conocimientos trabajando con equipos ágiles. ¡Trabajemos juntos para hacer realidad tus ideas!",
+    "borrador de la descripcion original": "¡Hola! Me llamo Jonatan haarala, soy tecnico universitario en informatica y desarrollador web full stack de Salta, Argentina. Tengo una rica experiencia en diseño y construcción de sitios web dinamicos y complejos, y también trabajando con equipo ágiles.",
+    "menu.home": "Inicio",
+    "menu.skills": "Habilidades",
+    "menu.proyects": "Proyectos",
+    "banner.redirect": "Mas info...",
+
+    "experience-title": "Lo que he logrado hasta ahora",
+    "experience": "Experiencia laboral",
+
+    "proyect-title": "Trabajos",
+    "proyects": "Proyectos",
+    "proyects-desc": "Los siguientes proyectos muestran mis habilidades y experiencia a través de ejemplos reales de mi trabajo. Cada proyecto se describe brevemente con enlaces a repositorios de código y demostraciones en vivo. Refleja mi capacidad para resolver problemas complejos, trabajar con diferentes tecnologías y administrar proyectos de manera efectiva.",
+
+    "feddback":"Lo que otros dicen",
+    "feddback-testimonials": "Testimonios."
+}
